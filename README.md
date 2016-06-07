@@ -1,5 +1,5 @@
 # rails-app-docker
-A gem to automagically dockerise your local rails app.
+A gem to automagically dockerise any local rails app.
 
 **What**
 
